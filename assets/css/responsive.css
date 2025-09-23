@@ -3107,11 +3107,18 @@
 
     .certified{
         /* padding: 0px 100px; */
-        margin: auto;
+        margin: 20px 80px;
         flex-wrap: wrap;
     }
 
-    
+    .nano{
+       display: none;
+    }
+
+    .startapply h2{
+  margin-left: 40px;
+    }
+
     .container-fluid2 {
         padding-left: 0px;
         padding-right: 20px;
