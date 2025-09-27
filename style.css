@@ -4232,10 +4232,10 @@ body .modal-backdrop {
   margin-top: 30px;
 }
 .rs-banner.style8 .banner-content .sl-sub-title {
-  font-size: 30px;
+  font-size: 20px;
   line-height: 50px;
-  font-weight: 400;
-  color: #ffffff;
+  font-weight: 300;
+  color:whitesmoke;
   margin-bottom: 22px;
 }
 .rs-banner.style8 .banner-content .sl-title {
@@ -5865,7 +5865,7 @@ body .modal-backdrop {
 .rs-categories.home9-style .categories-items .image-content {
   border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.18);
-  padding: 70px 30px 25px 40px;
+  padding: 50px 15px;
   background-color: #ffffff;
   position: relative;
 }
